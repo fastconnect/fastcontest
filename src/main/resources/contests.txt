@@ -1,0 +1,143 @@
+contest:
+
+question:A constructor is used to
+proposition:Free memory
+proposition:Initialize a newly created object
+proposition:Import packages
+proposition:Create a JVM for applets
+right answer:Initialize a newly created object
+
+question:What is the number of bytes used by Java primitive long?
+proposition:The number of bytes is compiler dependent
+proposition:2
+proposition:4
+proposition:8
+right answer:8
+
+question:Which of the following statement is False?
+proposition:The throw keyword denotes a statement that causes an exception to be initiated
+proposition:A class that is declared without any access modifiers is said to have package or friendly access
+proposition:A class inherit the constructors of its superclass
+proposition:The primitive types are byte, char, short, int, long, float, double, and boolean
+right answer:A class inherit the constructors of its superclass
+
+question:What is the output of the following program?<br/>class example {<br/>&nbsp;&nbsp;public static void main(String args[]) {<br/>&nbsp;&nbsp;&nbsp;&nbsp;int j;<br/>&nbsp;&nbsp;&nbsp;&nbsp;do { j++; } while(j < 0);<br/>&nbsp;&nbsp;&nbsp;&nbsp;System.out.println(j);<br/>&nbsp;&nbsp;}<br/>}
+proposition:The program does not compile as j is not initialized
+proposition:The program compiles but does not run
+proposition:The program compiles and runs but does not print anything
+proposition:The program prints 0
+right answer:The program does not compile as j is not initialized
+
+question:A mechanism of moving the session from one server to another in case of server failure is called as
+proposition:Session Hijacking
+proposition:Session Migration
+proposition:Session Tracking
+proposition:None of the Above
+right answer:Session Migration
+
+question:Servlets are typically used for
+proposition:Creating graphics
+proposition:Extending a web server by providing dynamic web content
+proposition:Storing information in applets
+proposition:Loading buttons and menus
+right answer:Extending a web server by providing dynamic web content
+
+question:Which of the following object is received when a servlet accepts call from client?
+proposition:ServletRequest
+proposition:ServletResponse
+proposition:Both of the Above
+proposition:None of the Above
+right answer:Both of the Above
+
+question:Which one of the following method is not Agile?
+proposition:The Scrum method
+proposition:The XP method
+proposition:The Rache method
+proposition:The RAD method
+right answer:The Rache method
+
+question:Who did create the mechanical calculator in 1642?
+proposition:Blaise Pascal
+proposition:Sir Isaac Newton
+proposition:Gottfried Wilhelm Leibniz
+proposition:Alan Mathison Turing
+right answer:Blaise Pascal
+
+question:What is Corba?
+proposition:A free Java tool that calculates the percentage of code accessed by tests
+proposition:A broker for building distributed object-oriented applications
+proposition:A member of the family Elapidae
+proposition:A man with a Psycho-Gun in his left arm
+right answer:A broker for building distributed object-oriented applications
+
+contest:
+
+question:Consider the following piece of code byte x = 0; x += 1;
+proposition:Results in x having the value 1
+proposition:Will require a cast (byte) before 1
+proposition:Will give syntax error
+proposition:Will cause an error during execution
+right answer:Results in x having the value 1
+
+question:What are Java varargs?
+proposition:A keyword to denote non-constant values
+proposition:A syntax to write methods that took an arbitrary number of arguments
+proposition:An object reference that may be updated atomically
+proposition:A keyword to indicate that a variable's value will be modified by different threads
+right answer:A syntax to write methods that took an arbitrary number of arguments
+
+question:In java, which mechanism allows to use a same function with different argument types?
+proposition:Inheritance
+proposition:Overriding
+proposition:Overloading
+proposition:Encapsulation
+right answer:Overloading
+
+question:Which of the following is used by a thread to enter the waiting state?
+proposition:wait() method
+proposition:sleep() method
+proposition:suspend() method
+proposition:All the Above
+right answer:All the Above
+
+question:Choose the statement that best describes the relationship between JSP and servlets.
+proposition:Servlets are built on JSP semantics and all servlets are compiled to JSP pages for runtime usage.
+proposition:JSPs are built on servlet semantics and all JSPs are compiled to servlets for runtime usage.
+proposition:Servlets and JSP are competing technologies for handling web requests.
+proposition:JSP and servlets are unrelated technologies.
+right answer:JSPs are built on servlet semantics and all JSPs are compiled to servlets for runtime usage.
+
+question:Which of the following denote the type of protocol supported by HttpServlet?
+proposition:HTTP
+proposition:HTTPS
+proposition:Both of the Above
+proposition:None of the Above
+right answer: Both of the Above
+
+question:Choose the correct statement from the given choice.
+proposition:Arrays in Java are essentially objects
+proposition:It is not possible to assign one array to another
+proposition:Array elements are indexed from 1 to size of array
+proposition:If a method tries to access an array element beyond its range, a compile warning is generated
+right answer:Arrays in Java are essentially objects
+
+question:In java, which one of these statements is true?
+proposition:An anonymous class can be declared as both extending a class and implementing an interface
+proposition:An anonymous class can extend a class or implement an interface
+proposition:An anonymous class can only extend a class
+proposition:All statements above are false
+right answer:An anonymous class can extend a class or implement an interface
+
+question:Which of the following is not a programming language?
+proposition:Luminaire
+proposition:Eiffel
+proposition:OCaml
+proposition:Smalltalk
+right answer:Luminaire
+
+question:What means JIT in Java?
+proposition:Java interface transaction
+proposition:Just in time transaction
+proposition:Just in time compiler
+proposition:Juvenile in training
+right answer:Just in time compiler
